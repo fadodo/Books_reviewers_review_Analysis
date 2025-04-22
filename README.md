@@ -22,6 +22,6 @@ Spoiler alert: what I found might surprise you.
 
 Despite all the data crunched and patterns parsed, review ratings turned out to have no strong causal ties to any of these factors. Yep—neither word count nor follower clout nor positivity alone could reliably predict the number of stars slapped onto a book. Turns out, the way we rate books may have more to do with personal writing habits than any external validation.
 
-Still, the language in these reviews told a vivid story. The words in glowing 5-star reviews were drenched in joy, awe, and passion—like love letters to literature. Meanwhile, 1-star reviews read like emotional vent sessions, full of frustration, boredom, and the occasional literary existential crisis.
+Still, the language in these reviews told a vivid story. The words in glowing 5-star reviews were drenched in **joy, awe, and passion—like love letters** to literature. Meanwhile, 1-star reviews read like emotional vent sessions, full of **frustration, boredom, and the occasional literary existential crisis**.
 
 So while numbers can’t explain everything, words still speak volumes. This project is my deep dive into the art (and analytics) of reader reviews—because every star, it turns out, comes with its own story.
