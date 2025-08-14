@@ -27,5 +27,5 @@ Still, the language in these reviews told a vivid story. The words in glowing 5-
 So while numbers can’t explain everything, words still speak volumes. This project is my deep dive into the art (and analytics) of reader reviews—because every star, it turns out, comes with its own story.
 
 
-![rating1s]()
-![rating5s]()
+![rating1s](https://github.com/fadodo/Books_reviewers_review_Analysis/blob/main/rating1star.png)
+![rating5s](https://github.com/fadodo/Books_reviewers_review_Analysis/blob/main/rating5star.png)
