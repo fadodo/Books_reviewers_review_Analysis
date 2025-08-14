@@ -25,3 +25,7 @@ Despite all the data crunched and patterns parsed, review ratings turned out to 
 Still, the language in these reviews told a vivid story. The words in glowing 5-star reviews were drenched in **joy, awe, and passion—like love letters** to literature. Meanwhile, 1-star reviews read like emotional vent sessions, full of **frustration, boredom, and the occasional literary existential crisis**.
 
 So while numbers can’t explain everything, words still speak volumes. This project is my deep dive into the art (and analytics) of reader reviews—because every star, it turns out, comes with its own story.
+
+
+![rating1s]()
+![rating5s]()
